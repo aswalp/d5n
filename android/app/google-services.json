@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "208438674093",
+    "project_id": "d-5n-bd4d0",
+    "storage_bucket": "d-5n-bd4d0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208438674093:android:6c885953ec598a20f5bc24",
+        "android_client_info": {
+          "package_name": "com.example.d5ninterview"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq-596sCs8Dy8r3qGJYHBV7p57j2-mUjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
